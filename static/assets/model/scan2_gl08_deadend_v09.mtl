@@ -1,0 +1,14 @@
+newmtl skySG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pano_gl08_deadend_v02_cc.png
+Ni 1.00
+newmtl streetSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd scan2_gl08_deadend_v06.png
+Ni 1.00
